@@ -14,7 +14,7 @@ namespace HomeTask3
             Console.WriteLine("\r\nList of results:");
             foreach (var item in q)
             {
-                Console.WriteLine("\r\nВид {0}", item.Key);
+                Console.WriteLine("\r\nBreed {0}", item.Key);
                 ShowAnimals(item);
             }
         }
