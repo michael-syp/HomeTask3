@@ -1,0 +1,6 @@
+C:\Users\Михаил\Desktop\Binnary-studio .net\ДЗ_№3\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe.config
+C:\Users\Михаил\Desktop\Binnary-studio .net\ДЗ_№3\HomeTask3\HomeTask3\bin\Debug\HomeTask3.exe
+C:\Users\Михаил\Desktop\Binnary-studio .net\ДЗ_№3\HomeTask3\HomeTask3\bin\Debug\HomeTask3.pdb
+C:\Users\Михаил\Desktop\Binnary-studio .net\ДЗ_№3\HomeTask3\HomeTask3\obj\Debug\HomeTask3.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\Binnary-studio .net\ДЗ_№3\HomeTask3\HomeTask3\obj\Debug\HomeTask3.exe
+C:\Users\Михаил\Desktop\Binnary-studio .net\ДЗ_№3\HomeTask3\HomeTask3\obj\Debug\HomeTask3.pdb
